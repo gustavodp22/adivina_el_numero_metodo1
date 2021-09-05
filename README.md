@@ -1,2 +1,2 @@
 # adivina_el_numero_metodo1
-TP_3-GIT-G2
+TP_3-GITHUB-G2

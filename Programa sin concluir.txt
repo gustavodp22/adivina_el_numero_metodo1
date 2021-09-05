@@ -1,0 +1,5 @@
+#metodo 1 adivina el numero
+
+importar al  azar
+n = aleatorio . rango aleatorio ( 1 , 100 )
+nu = int ( input ( 'Dime el número que crees que he elegido:' ))

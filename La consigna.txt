@@ -1,0 +1,6 @@
+# se le pide al usuario un numero de i al 100
+
+# una vez que lo ingresa se le dice que "ingrese uno menor" o "ingrese uno mayor"
+
+# y si acierta adivina el numero"
+

@@ -1,5 +1,5 @@
 #metodo 1 adivina el numero
-
+#!/usr/bin/python3
 import random
 n=random.randrange(1,100)
 nu=int(input('Dime el número que crees que he elegido: '))

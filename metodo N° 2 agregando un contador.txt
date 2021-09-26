@@ -1,0 +1,8 @@
+## metodo N° 2 
+## se le pide al usuario un numero de 1 al 100
+
+# una vez que lo ingresa se le dice que "ingrese uno menor" o "ingrese uno mayor"
+
+# y si acierta adivina el numero "
+
+## agregando un contador 
